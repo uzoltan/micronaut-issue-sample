@@ -1,6 +1,6 @@
 ## What's this
 I've created this small sample app to demonstrate a potential bug in Micronaut data,
-so I can create an issue ticket on GitHub.
+so I can create an issue ticket on GitHub. Link to the issue: https://github.com/micronaut-projects/micronaut-data/issues/1133
 
 
 
